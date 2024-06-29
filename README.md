@@ -10,7 +10,7 @@ Play, pause, and navigate through Ayahs within a Surah<br>
 Display the Arabic text of each Ayah<br>
 Show notifications when a Surah ends<br>
 
-**Technologies Used**
+**Technologies Used**<br>
 HTML<br>
 CSS<br>
 JavaScript<br>
@@ -18,3 +18,10 @@ Fetch API<br>
 Gading Quran API<br>
 Google Material Icons<br>
 SweetAlert2 for notifications<br>
+
+**Usage**<br>
+The application will fetch and display the list of Surahs from the Quran.<br>
+Click on any Surah to start playing its recitation.<br>
+Use the play/pause button to control the playback.<br>
+Use the next and previous buttons to navigate through the Ayahs of the selected Surah.<br>
+The Arabic text of the current Ayah will be displayed.<br>
